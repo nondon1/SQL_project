@@ -1,4 +1,4 @@
-# SQL_project
+# AtliQ Hardware: End-to-End Sales & Finance Analytics using SQL
 Project Highlights:
 
 ## 📊 Project Highlights
